@@ -1,0 +1,36 @@
+header {
+	margin-bottom: 30px;
+	background-color: orange;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header h1 {
+	line-height: 1
+	margin-bottom:0;
+}
+
+header p {
+	margin-top: .5em;
+}
+
+.card {
+	border: 1px solid silver;
+	margin-bottom: 20px;
+}
+
+.card-image {
+	width: 100%;
+}
+.card-content {
+	padding:20px;
+}
+.card-content h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.card-content p {
+	margin: 0.5em 0;
+}
